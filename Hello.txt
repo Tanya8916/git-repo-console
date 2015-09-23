@@ -1,0 +1,4 @@
+print("Hello;")
+print("Hello people;")
+print("Hello my dear friend;")
+print("Glad to see you;")
