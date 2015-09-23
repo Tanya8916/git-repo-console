@@ -1,1 +1,2 @@
 print("Freedom!")
+print("Be happy!")
